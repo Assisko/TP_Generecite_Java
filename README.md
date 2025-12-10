@@ -15,4 +15,5 @@ Il propose un menu interactif pour gérer les emprunts de médias et appliquer l
 ## Installation
 1. Cloner le projet :
 ```bash
-git clone <url-du-projet>
+git clone <https://github.com/Assisko/TP_Generecite_Java/edit/main
+>
